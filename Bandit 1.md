@@ -1,0 +1,2 @@
+First tried to list if there is anything but found nothing except "-" file(maybe im not sure).
+then went around searching around ,alas, couldn't find anything but the sudo command didn't work i dont know why.
