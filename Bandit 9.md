@@ -6,4 +6,4 @@ Even if it really print it for me it printed the rubbish with it.
 
 There is a command called "strings" that looks for printable strings in the file.
 So I got to learn new command.
-strings "data.txt" | grep "="
+strings "data.txt" | grep "=".
