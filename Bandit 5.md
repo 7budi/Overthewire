@@ -6,3 +6,6 @@ I tried many thing like "find /inhere -type f" , "find / -type f" ,"find . -type
 I had to do some research on how to find non-executable file and how to list it.
 
 finally found it using "find . -type f -size -3k ! -executable -exec ls -al {} \\;"
+
+
+ps. after some research found out a simple command which is "find -type f -size 1033c"
