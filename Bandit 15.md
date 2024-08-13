@@ -11,8 +11,14 @@ This is what SSL and TLS trying to solve.What SSL/TLS do is crate a secure,prote
 
 That's where HTTPS come from, an HTML is transferred with HTTP protected by SSL.
 
-SSL/TLS can also protect other data transfer:
-1. SSL VPN
+SSL/TLS can also protect other data transfer like SSL VPN.
+
+SSL/TLS can not prevent the capture of the data instead the purpose of SSL/TLS is to protect the data in three ways:
+ 1. Confidentiality: Data is only accessible to the client and server(meaning it should be encrypted and unreadable to the listener), it's provided through the encryption.
+ 2. Integrity:Data is not modified between client and server(it doesn't prevent from being modified but it enables detection if the data is modified), it's provided through hashing.
+ 3. Authentication: It makes sure the the client and the server are indeed who they say they are(They do this by validating the identity of the two parties ) , it's provided through PKI(Public key Infrastructure).
+ 
+"Tunnel" is just a conceptual illustration.
 
 SSL(Secure Socket layer) is an example of hybrid cryptography which basically means it's a method of using symmetric and asymmetric cryptography to send secure communications.
 TLS(Transport Layer Secure) is the sequel of ssl.
