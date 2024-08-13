@@ -25,3 +25,7 @@ TLS(Transport Layer Secure) is the sequel of SSL.
 SSL and TLS follow the same process
 
 SSL/TSL provide anti-replay protection by giving a sequence number for the data.
+
+There is alot of topics I didn't touch but for now this is enough.
+
+what I did was i just and went to the openssl site and copied the connecting to ssl command and pasted it.
