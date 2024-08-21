@@ -1,0 +1,2 @@
+This one was a bit tricky.I tried to cat it but got an permission error,then i tried to execute the file since its executable but it kept giving me the pass of bandit22.
+I tried many thing but didn't work, I had to do some research after a while i found out u can name myname to bandit 23 then I did that and had to echo like what written in the .sh file and finally the pass came out.
