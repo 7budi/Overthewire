@@ -1,0 +1,1 @@
+I really forgot how to use ncat,ssh,nc and more I needed to watch more videos.
