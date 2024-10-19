@@ -1,4 +1,2 @@
-This is pretty easy we should just see what was being executed and see what happen.
-In this level the pass was just copied to some other file.
-
-All we had to do is cat that file.
+This one was a bit tricky.I tried to cat it but got an permission error,then i tried to execute the file since its executable but it kept giving me the pass of bandit22.
+I tried many thing but didn't work, I had to do some research after a while i found out u can name myname to bandit 23 then I did that and had to echo like what written in the .sh file and finally the pass came out.
