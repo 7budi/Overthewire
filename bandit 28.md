@@ -1,0 +1,1 @@
+At first i was trying to git clone it without qoute which made the terminal misinterpret it but with it, it will treat it as one argument and that's all. 
