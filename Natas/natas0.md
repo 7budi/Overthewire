@@ -1,0 +1,1 @@
+To find the answer for the first question we can just use view source page to read the html code and find the answer there.
